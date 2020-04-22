@@ -2,7 +2,7 @@
 Analysing US Accidents 2016-19 data using Spark. The data is taken from Kaggle.com 
 link: https://www.kaggle.com/sobhanmoosavi/us-accidents 
 
-#DATA ANALYSIS :: Kaggle's US Accidents 2016=-19 [BIG DATA]
+#DATA ANALYSIS :: Kaggle's US Accidents 2016-2019 [BIG DATA]
 
 #BUSINESS GOAL : - Interprete the dataset by providing : + Data cleaning & reading + Data query & visualisation 
 
